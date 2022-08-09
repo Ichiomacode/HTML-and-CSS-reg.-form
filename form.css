@@ -1,0 +1,38 @@
+body{
+    background-image:url(computer\ 1.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    text-align:center;
+}
+form{
+background-color:rgba(80,90,92,0.8);
+    opacity:5px;
+    margin:20px;
+    padding:10px;
+    color:gold;
+    margin-bottom: 50px;
+    margin-top:20px;
+}
+h2{
+    color:gold;
+}
+input{
+background-color: rgba(33,46,64,21);
+    border:none;
+    border-bottom:2px solid white;
+    text-align:left;
+    padding:2px;
+    font-size:10px;
+    
+}
+::placeholder{
+             color:#00fffc;
+}
+button{
+    width:80px;
+    height:40px;
+    font-size:15px;
+    background-color:#00FFFC;
+    border:none;
+}
+
